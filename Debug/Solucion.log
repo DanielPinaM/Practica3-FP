@@ -1,0 +1,13 @@
+﻿  Solucion.cpp
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(20): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tCasilla' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(25): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTecla' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(32): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tTablero' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(41): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tSokoban' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(49): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tJuego' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(55): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tHistoria' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(62): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tPartida' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(67): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tExitos' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(74): warning C4091: 'typedef ': se ha omitido a la izquierda de 'tInfo' cuando no hay ninguna variable declarada
+c:\users\usuario\documents\ucm\fp\practica 3\solucion\solucion.cpp(142): warning C4018: '<': no coinciden signed/unsigned
+  Solucion.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 3\Solucion\Debug\Solucion.exe
+  Solucion.vcxproj -> C:\Users\Usuario\Documents\UCM\FP\Practica 3\Solucion\Debug\Solucion.pdb (Full PDB)
